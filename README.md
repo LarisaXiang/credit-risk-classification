@@ -6,14 +6,14 @@ The purpose of this analysis is to evaluate the performance of a logistic regres
 
 ## The Results 
 
-* Accuracy Score: 
+Accuracy Score: 
 - The model has an overall accuracy of 99%, indicating a high level of reliability in its predictions.
 
-* Precision Score:
+Precision Score:
 - Healthy Loans: The precision score is 1.00, meaning there were virtually no healthy loans misclassified as high-risk.
 - High-Risk Loans: The precision score is 0.85, indicating that 15% of loans predicted as high-risk were actually healthy loans.
 
-* Recall Score:
+Recall Score:
 - Healthy Loans: The recall score is 0.99, showing the model missed 1% of actual healthy loans, classifying them as high-risk.
 - High-Risk Loans: The recall score is 0.91, which is quite high, reflecting that the model caught 91% of all high-risk loans.
 
